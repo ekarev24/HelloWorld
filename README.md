@@ -1,4 +1,4 @@
 # HelloWorld
 test repository
-My name is Eka. 
-Try to learn Git
+Hello World! 
+Stay helathy everyone!
